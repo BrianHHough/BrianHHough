@@ -4,7 +4,7 @@
 
 My name is Brian, and I'm a UI/UX designer, software engineer and blockchain developer. I'm passionate about innovative technologies and how to build them. Whether it's developing full stack applications, websites, or something new for the web, I strive to combine stellar design with optimal UI/UX. Ever since entering the blockchain VC space, I've been fascinated by buildable technology, fintech, and the democratization of innovation.
 
-### Programming Languages
+### 💻 Some of My Favorite Programming Languages
 
 <table>
 <tr>
@@ -66,29 +66,40 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
     <h3 align="center">Sass</h3>
   </td>
 </tr>
-  
-</table>
 
-### Front-End Languages:
-
-<table>
-
-</table>
-
-### Back-End Languages:
-
-<table>
 <tr>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" width=75 height=75 align="center">
-    <h3 align="center">C</h3>
+    <h3 align="center">Back-End</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" width=75 height=75 align="center">
-    <h3 align="center">C</h3>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=75 height=75 align="center">
+    <h3 align="center">AWS</h3>
+  </td>
+  <td align="center">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width=75 height=75 align="center">
+    <h3 align="center">Google Cloud</h3>
+  </td>
+  <td align="center">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width=75 height=75 align="center">
+    <h3 align="center">Azure</h3>
+  </td>
+  <td align="center">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width=75 height=75 align="center">
+    <h3 align="center">MongoDB</h3>
+  </td>
+  <td align="center">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width=75 height=75 align="center">
+    <h3 align="center">MongoDB</h3>
+  </td>
+  <td align="center">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width=75 height=75 align="center">
+    <h3 align="center">NodeJS</h3>
   </td>
 </tr>
+
 </table>
+
+
 
 
 
