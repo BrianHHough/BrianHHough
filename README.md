@@ -16,6 +16,11 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
     <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" width=75 height=75 align="center">
     <h3 align="center">Ruby</h3>
   </td>
+  <td>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width=75 height=75 align="center">
+    <h3 align="center">TypeScript</h3>
+  </td>
+  
 </tr>
 </table>
 
@@ -25,7 +30,7 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
 <tr>
   <td>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" width=75 height=75 align="center">
-    <h3 align="center">C</h3>
+    <h3 align="center">React</h3>
   </td>
   <td>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" width=75 height=75 align="center">
@@ -48,3 +53,8 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
   </td>
 </tr>
 </table>
+
+
+
+
+
