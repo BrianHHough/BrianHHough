@@ -1,4 +1,4 @@
-![Banner](/images/Banner.png)
+![Banner](https://github.com/BrianHHough/BrianHHough/blob/master/images/Banner.png)
 
 ### Hi there 👋 Thanks for stopping by!
 
