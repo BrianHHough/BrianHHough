@@ -105,7 +105,7 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
 
 </table>
 
-### 🌟 Some of My Favorite Projects
+### 🌟 Check Out the Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhhough&layout=compact)](https://github.com/brianhhough/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianHHough&show_icons=true&theme=default)
