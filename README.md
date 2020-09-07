@@ -1,13 +1,6 @@
 ![Banner](https://github.com/BrianHHough/BrianHHough/blob/master/images/Banner.png)
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/visits/{brianhhough}/{brianhhough.github.io})
 [![Twitter Follow](https://img.shields.io/twitter/follow/BrianHHough?color=15307B&label=Follow%20%40BrianHHough&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=BrianHHough)
-[![Instagram Follow]((https://img.shields.io/twitter/follow/BrianHHough?color=15307B&label=Follow%20%40BrianHHough&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=BrianHHough)
-
-https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)
-
-<a href="https://medium.com/@BrianHHough"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-<a href="https://dev.to/BrianHHough"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 
 
 # Hi there 👋 Thanks for stopping by!
