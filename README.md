@@ -1,7 +1,6 @@
 ![Banner](https://github.com/BrianHHough/BrianHHough/blob/master/images/Banner.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BrianHHough?color=15307B&label=Follow%20Me%20%40BrianHHough&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=BrianHHough)
-![GitHub followers](https://img.shields.io/github/followers/brianhhough?color=15307B&label=GitHub%20Followers&logo=15307B&logoColor=CBA200&style=for-the-badge)
 [![Repos Badge](https://badges.pufler.dev/repos/brianhhough?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
 ![GitHub stars](https://img.shields.io/github/stars/COVID-19-electronic-health-system/Corona-tracker?color=CBA200&style=for-the-badge)
 [![Commits Badge](https://badges.pufler.dev/commits/all/brianhhough?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
@@ -108,14 +107,12 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
 
 
 ### 📬 Let's Connect!
-
-<ul>
-  <li> [Twitter](https://twitter.com/brianhhough) </li>
-  <li>Instagram</li>
-  <li>Contact Form</li>
-  </ul>
+<a href="https://brianhhough.com/contact"><img src="https://img.shields.io/badge/BrianHHough.com-Message%20Me-blue?color=15307B&style=for-the-badge"></a>
+<a href="https://twitter.com/brianhhough"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://medium.com/@brianhhough"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+<a href="https://dev.to/brianhhough"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+<a href="https://YouTube.com/channel/UCho9RfaL4_6EPQvdjeIbT6A"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
   
-
 
 
 
