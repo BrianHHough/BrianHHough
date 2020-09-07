@@ -110,6 +110,7 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhhough&layout=compact)](https://github.com/brianhhough/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianHHough&show_icons=true&theme=default)
 
+
 ### 📬 Let's Connect!
 
 <a href="https://brianhhough.com/contact"><img src="https://img.shields.io/badge/BrianHHough.com-Message%20Me-blue?color=15307B&style=for-the-badge"></a>
