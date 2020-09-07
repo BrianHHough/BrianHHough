@@ -4,7 +4,6 @@
 [![LinkedIn Follow](https://img.shields.io/badge/<SUBJECT>-2.3k-<COLOR>.svg?color=15307B&label=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/brianhhough/)
 [![Instagram Follow](https://img.shields.io/badge/<SUBJECT>-1.8k-<COLOR>.svg?color=15307B&label=Instagram&style=for-the-badge)](https://www.instagram.com/brianhhough/)
 [![Repos Badge](https://badges.pufler.dev/repos/brianhhough?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
-![GitHub stars](https://img.shields.io/github/stars/COVID-19-electronic-health-system/Corona-tracker?color=CBA200&style=for-the-badge)
 [![Commits Badge](https://badges.pufler.dev/commits/all/brianhhough?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
 
 
