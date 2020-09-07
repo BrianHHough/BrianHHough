@@ -1,6 +1,8 @@
 ![Banner](https://github.com/BrianHHough/BrianHHough/blob/master/images/Banner.png)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BrianHHough?color=15307B&label=Follow%20Me%20%40BrianHHough&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=BrianHHough)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BrianHHough?color=15307B&label=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=BrianHHough)
+[![LinkedIn Follow](https://img.shields.io/badge/<SUBJECT>-2.3k-<COLOR>.svg?color=15307B&label=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/brianhhough/)
+[![Instagram Follow](https://img.shields.io/badge/<SUBJECT>-1.8k-<COLOR>.svg?color=15307B&label=Instagram&style=for-the-badge)](https://www.instagram.com/brianhhough/)
 [![Repos Badge](https://badges.pufler.dev/repos/brianhhough?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
 ![GitHub stars](https://img.shields.io/github/stars/COVID-19-electronic-health-system/Corona-tracker?color=CBA200&style=for-the-badge)
 [![Commits Badge](https://badges.pufler.dev/commits/all/brianhhough?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
