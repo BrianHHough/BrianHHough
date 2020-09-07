@@ -1,9 +1,10 @@
 ![Banner](https://github.com/BrianHHough/BrianHHough/blob/master/images/Banner.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BrianHHough?color=15307B&label=Follow%20Me%20%40BrianHHough&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=BrianHHough)
-![GitHub followers](https://img.shields.io/github/followers/brianhhough?color=15307B&label=Follow%20Me%20On%20GitHub&logo=15307B&logoColor=15307B&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/brianhhough?color=15307B&label=GitHub%20Followers&logo=15307B&logoColor=CBA200&style=for-the-badge)
 [![Repos Badge](https://badges.pufler.dev/repos/brianhhough?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
 ![GitHub stars](https://img.shields.io/github/stars/COVID-19-electronic-health-system/Corona-tracker?color=CBA200&style=for-the-badge)
+[![Commits Badge](https://badges.pufler.dev/commits/all/brianhhough?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
 
 
 # Hi there 👋 Thanks for stopping by!
@@ -106,10 +107,10 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
 </table>
 
 
-### 📨 Let's Connect!
+### 📬 Let's Connect!
 
 <ul>
-  <li>Twitter</li>
+  <li> [Twitter](https://twitter.com/brianhhough) </li>
   <li>Instagram</li>
   <li>Contact Form</li>
   </ul>
