@@ -30,8 +30,8 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
     <h3 align="center">Ruby</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width=75 height=75 align="center">
-    <h3 align="center">TypeScript</h3>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width=75 height=75 align="center">
+    <h3 align="center">JavaScript</h3>
   </td>
   <td align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width=75 height=75 align="center">
@@ -39,7 +39,7 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
   </td>
   <td align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" width=75 height=75 align="center">
-    <h3 align="center">Python</h3>
+    <h3 align="center">Swift</h3>
   </td>
 </tr>
   
@@ -105,14 +105,16 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
 
 </table>
 
+### 🌟 Some of My Favorite Projects
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhhough&layout=compact)](https://github.com/brianhhough/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianHHough&show_icons=true&theme=default)
 
 ### 📬 Let's Connect!
+
 <a href="https://brianhhough.com/contact"><img src="https://img.shields.io/badge/BrianHHough.com-Message%20Me-blue?color=15307B&style=for-the-badge"></a>
-<a href="https://twitter.com/brianhhough"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="https://medium.com/@brianhhough"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-<a href="https://dev.to/brianhhough"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-<a href="https://YouTube.com/channel/UCho9RfaL4_6EPQvdjeIbT6A"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+<a href="https://twitter.com/brianhhough"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
+<a href="https://medium.com/@brianhhough"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a> 
+<a href="https://dev.to/brianhhough"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
+<a href="https://YouTube.com/channel/UCho9RfaL4_6EPQvdjeIbT6A"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white"></a>
   
-
-
-
