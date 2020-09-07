@@ -84,8 +84,8 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
     <h3 align="center">Azure</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width=75 height=75 align="center">
-    <h3 align="center">MongoDB</h3>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" width=75 height=75 align="center">
+    <h3 align="center">Oracle</h3>
   </td>
   <td align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width=75 height=75 align="center">
