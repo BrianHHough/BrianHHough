@@ -113,9 +113,11 @@ My name is Brian, and I'm a UI/UX designer, software engineer and blockchain dev
 
 ### 📬 Let's Connect!
 
+<p>If you're looking for a diligent worker, creative thinker, and proactive team member for your organization, company, or project - let's connect:</p>
+
 <a href="https://brianhhough.com/contact"><img src="https://img.shields.io/badge/BrianHHough.com-Message%20Me-blue?color=15307B&style=for-the-badge"></a>
 <a href="https://twitter.com/brianhhough"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
+<a href="https://instagram.com/brianhhough"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://YouTube.com/channel/UCho9RfaL4_6EPQvdjeIbT6A"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://medium.com/@brianhhough"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a> 
 <a href="https://dev.to/brianhhough"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
-<a href="https://YouTube.com/channel/UCho9RfaL4_6EPQvdjeIbT6A"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-  
