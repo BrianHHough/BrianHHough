@@ -9,7 +9,7 @@
 
 # Hi there 👋 Thanks for stopping by!
 
-My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain developer. I'm passionate about innovative technologies and how to build them. Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack. Ever since entering the blockchain VC space, I've been fascinated by buildable technology, fintech, and the democratization of innovation. Let's connect!
+My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain developer. I'm passionate about innovative technologies and how to build them. Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack. Ever since entering the blockchain space by working for a VC fund, I've been fascinated by buildable technology, fintech, and the democratization of innovation. Let's connect!
 
 ### 💻 Some of My Favorite Programming Languages:
 
@@ -106,7 +106,7 @@ My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain de
 
 </table>
 
-### 🌟 Check Out the Stats:
+### 🌟 Check Out the Stats from My Coding Journey:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhhough&layout=compact)](https://github.com/brianhhough/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianHHough&show_icons=true&theme=default)
