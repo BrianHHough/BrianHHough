@@ -7,7 +7,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/all/brianhhough?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
 
 
-# Hi there 👋 Thanks for stopping by! 
+# Hi there 👋 Thanks for stopping by!  
 
 My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain developer. I'm passionate about innovative technologies and how to build them. Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack. Ever since entering the blockchain space by working for a VC fund, I've been fascinated by buildable technology, fintech, and the democratization of innovation. Let's connect!
 
