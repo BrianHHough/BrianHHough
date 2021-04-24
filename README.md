@@ -79,7 +79,7 @@ My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain de
     <h3 align="center">Back-End</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=75 height=75 align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width=75 height=75 align="center">
     <h3 align="center">AWS</h3>
   </td>
   <td align="center">
@@ -91,7 +91,7 @@ My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain de
     <h3 align="center">Azure</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" width=75 height=75 align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/oracle/oracle-original.svg" width=75 height=75 align="center">
     <h3 align="center">Oracle</h3>
   </td>
   <td align="center">
