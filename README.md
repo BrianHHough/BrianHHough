@@ -49,28 +49,28 @@ My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain de
     <h3 align="center">Front-End</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" width=75 height=75 align="center">
-    <h3 align="center">Angular</h3>
-  </td>
-  <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" width=75 height=75 align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/react/react-original.svg" width=75 height=75 align="center">
     <h3 align="center">React</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" width=75 height=75 align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width=75 height=75 align="center">
+    <h3 align="center">Next.js</h3>
+  </td>
+  <td align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/redux/redux-original.svg" width=75 height=75 align="center">
+    <h3 align="center">Redux</h3>
+  </td>
+  <td align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width=75 height=75 align="center">
+    <h3 align="center">Angular</h3>
+  </td>
+  <td align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=75 height=75 align="center">
     <h3 align="center">Vue</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width=75 height=75 align="center">
-    <h3 align="center">HTML</h3>
-  </td>
-  <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width=75 height=75 align="center">
-    <h3 align="center">CSS</h3>
-  </td>
-  <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width=75 height=75 align="center">
-    <h3 align="center">Sass</h3>
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/d3js/d3js-original.svg" width=75 height=75 align="center">
+    <h3 align="center">D3.js</h3>
   </td>
 </tr>
 
@@ -95,12 +95,12 @@ My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain de
     <h3 align="center">Oracle</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width=75 height=75 align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/mongodb/mongodb-original.svg" width=75 height=75 align="center">
     <h3 align="center">MongoDB</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width=75 height=75 align="center">
-    <h3 align="center">NodeJS</h3>
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/docker/docker-plain.svg" width=75 height=75 align="center">
+    <h3 align="center">Docker</h3>
   </td>
 </tr>
 
