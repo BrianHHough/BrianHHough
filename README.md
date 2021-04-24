@@ -19,28 +19,28 @@ My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain de
     <h3 align="center">Programming</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" width=75 height=75 align="center">
-    <h3 align="center">C</h3>
-  </td>
-  <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" width=75 height=75 align="center">
-    <h3 align="center">C</h3>
-  </td>
-  <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" width=75 height=75 align="center">
-    <h3 align="center">Ruby</h3>
-  </td>
-  <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width=75 height=75 align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/javascript/javascript-plain.svg" width=75 height=75 align="center">
     <h3 align="center">JavaScript</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width=75 height=75 align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/python/python-original.svg" width=75 height=75 align="center">
     <h3 align="center">Python</h3>
   </td>
   <td align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" width=75 height=75 align="center">
-    <h3 align="center">Swift</h3>
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/kotlin/kotlin-original.svg" width=75 height=75 align="center">
+    <h3 align="center">Kotlin</h3>
+  </td>
+  <td align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/java/java-original-wordmark.svg" width=75 height=75 align="center">
+    <h3 align="center">Java</h3>
+  </td>
+  <td align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/typescript/typescript-plain.svg" width=75 height=75 align="center">
+    <h3 align="center">TypeScript</h3>
+  </td>
+  <td align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=75 height=75 align="center">
+    <h3 align="center">NodeJS</h3>
   </td>
 </tr>
   
