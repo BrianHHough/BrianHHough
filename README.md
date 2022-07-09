@@ -1,4 +1,4 @@
-![Banner](https://github.com/BrianHHough/BrianHHough/blob/master/images/GitHub%20Profile%20Banner.png)
+![Banner](https://github.com/BrianHHough/BrianHHough/blob/main/images/GitHub%20Profile%20Banner.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BrianHHough?color=15307B&label=Follow%20Me%20On%20Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=BrianHHough)
 [![LinkedIn Follow](https://img.shields.io/badge/<SUBJECT>-4.4k-<COLOR>.svg?color=15307B&label=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/brianhhough/)
