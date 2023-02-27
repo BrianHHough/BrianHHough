@@ -18,6 +18,14 @@ My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain de
     <h3 align="center">Programming</h3>
   </td>
   <td align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/typescript/typescript-plain.svg" width=75 height=75 align="center">
+    <h3 align="center">TypeScript</h3>
+  </td>
+  <td align="center">
+    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=75 height=75 align="center">
+    <h3 align="center">Node.JS</h3>
+  </td>
+  <td align="center">
     <img src="https://github.com/BrianHHough/devicon/blob/master/icons/javascript/javascript-plain.svg" width=75 height=75 align="center">
     <h3 align="center">JavaScript</h3>
   </td>
@@ -26,21 +34,15 @@ My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain de
     <h3 align="center">Python</h3>
   </td>
   <td align="center">
-    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/kotlin/kotlin-original.svg" width=75 height=75 align="center">
-    <h3 align="center">Kotlin</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eth-diamond-rainbow.png" width=75 height=75 align="center">
+    <h3 align="center">Solidity</h3>
   </td>
+  
   <td align="center">
     <img src="https://github.com/BrianHHough/devicon/blob/master/icons/java/java-original-wordmark.svg" width=75 height=75 align="center">
     <h3 align="center">Java</h3>
   </td>
-  <td align="center">
-    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/typescript/typescript-plain.svg" width=75 height=75 align="center">
-    <h3 align="center">TypeScript</h3>
-  </td>
-  <td align="center">
-    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=75 height=75 align="center">
-    <h3 align="center">NodeJS</h3>
-  </td>
+  
 </tr>
   
 <tr>
@@ -49,15 +51,15 @@ My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain de
   </td>
   <td align="center">
     <img src="https://github.com/BrianHHough/devicon/blob/master/icons/react/react-original.svg" width=75 height=75 align="center">
-    <h3 align="center">React</h3>
+    <h3 align="center">React.JS</h3>
   </td>
   <td align="center">
-    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width=75 height=75 align="center">
-    <h3 align="center">Next.js</h3>
+    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" width=75 height=75 align="center">
+    <h3 align="center">React Native</h3>
   </td>
   <td align="center">
-    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/redux/redux-original.svg" width=75 height=75 align="center">
-    <h3 align="center">Redux</h3>
+    <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width=75 height=75 align="center">
+    <h3 align="center">Next.JS</h3>
   </td>
   <td align="center">
     <img src="https://github.com/BrianHHough/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width=75 height=75 align="center">
@@ -78,7 +80,7 @@ My name is Brian, and I'm a UI/UX designer, software engineer, and blockchain de
     <h3 align="center">Back-End</h3>
   </td>
   <td align="center">
-    <img src="https://github.com/BrianHHough/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width=75 height=75 align="center">
+    <img src="https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/1614/2019/07/21743298_1406722539365107_4308832733562613967_n.png" width=75 height=75 align="center">
     <h3 align="center">AWS</h3>
   </td>
   <td align="center">
